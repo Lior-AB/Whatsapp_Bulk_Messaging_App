@@ -1,0 +1,15 @@
+{
+    "users": [
+        {
+            "machine_id": "machine_id_1",
+            "expiration_date": "2024-12-31",
+            "notes": "User 1"
+        },
+        {
+            "machine_id": "machine_id_2",
+            "expiration_date": "2024-06-30",
+            "notes": "User 2"
+        }
+    ],
+    "last_updated": "2024-02-09"
+}
