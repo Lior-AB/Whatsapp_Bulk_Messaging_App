@@ -2,13 +2,10 @@
     "users": [
         {
             "machine_id": "c27aa07986271af0b904b92011b98418e70d76d272c76d934e797680906f6e76",
-            "expiration_date": "2025-03-31",
-            "notes": "User 1"
-        },
-        {
-            "machine_id": "machine_id_2",
-            "expiration_date": "2024-06-30",
-            "notes": "User 2"
+            "name": "Admin",
+            "expiration_date": "2025-01-31",
+            "disabled": false,
+            "notes": "Admin machine"
         }
     ],
     "last_updated": "2024-02-09"
